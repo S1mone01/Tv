@@ -1,0 +1,7 @@
+{
+    "name" : "[COLORblue]KoD[/COLOR]",
+    "plugin" : "plugin.video.kod",
+    "priority" : 100,
+    "search_movie" : "plugin://plugin.video.kod/?ewogICAgImNoYW5uZWwiOiAic2VhcmNoIiwKICAgICJhY3Rpb24iOiAibmV3X3NlYXJjaCIsCiAgICAibW9kZSI6ICJhbGwiCn0=&search_text={clearname_+}",
+    "search_episode": "plugin://plugin.video.kod/?ewogICAgImNoYW5uZWwiOiAic2VhcmNoIiwKICAgICJhY3Rpb24iOiAibmV3X3NlYXJjaCIsCiAgICAibW9kZSI6ICJhbGwiCn0=&search_text={clearname_+}"
+}

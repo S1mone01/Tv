@@ -1,0 +1,8 @@
+{
+    "name" : "[COLORblue]KoD[/COLOR]",
+    "plugin" : "plugin.video.kod",
+    "priority" : 100,
+    "is_resolvable": "false",
+    "play_movie" : "plugin://plugin.video.kod/?eyJhY3Rpb24iOiJTZWFyY2giLCJjaGFubmVsIjoiZ2xvYmFsc2VhcmNoIiwiZm9sZGVyIjpmYWxzZSwibW9kZSI6ICJtb3ZpZSIsInR5cGUiOiAibW92aWUifQ==&text={clearname}",
+    "play_episode": "plugin://plugin.video.kod/?eyJhY3Rpb24iOiJTZWFyY2giLCJjaGFubmVsIjoiZ2xvYmFsc2VhcmNoIiwiZm9sZGVyIjpmYWxzZSwibW9kZSI6ICJ0dnNob3ciLCJ0eXBlIjogInR2c2hvdyJ9&text={clearname}"
+}
