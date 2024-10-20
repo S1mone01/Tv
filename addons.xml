@@ -1,0 +1,9 @@
+<addons>
+   <addon id="plugin.video.example" name="Example Plugin" version="1.0.0" provider-name="You">
+      <extension point="xbmc.addon.metadata">
+         <summary>Example Plugin</summary>
+         <description>Un esempio di plugin per Kodi che utilizza file JSON.</description>
+      </extension>
+   </addon>
+   <!-- Aggiungi altri add-on qui se necessario -->
+</addons>
